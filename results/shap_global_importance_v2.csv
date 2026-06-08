@@ -1,0 +1,14 @@
+feature,mean_abs_shap
+rec_months_since_flight,0.20792718592234782
+mon_clv_asof_proxy,0.20698159267295804
+demo_tenure_months,0.17751085510084874
+freq_flights_per_active_month,0.16152790579943288
+freq_months_active_6mo,0.044565861821474526
+Marital Status,0.04214013626280406
+trend_flights_diff,0.007873195530529833
+mon_redeem_ratio,0.0
+Gender,0.0
+Education,0.0
+Salary_Band,0.0
+Loyalty Card,0.0
+Province,0.0
